@@ -19,7 +19,7 @@ highlight_code = true
 build_search_index = true
 
 # The site theme to use.
-theme = "zola-theme-hikari-arcade"
+theme = "zola-theme-hikari-grid"
 
 [extra]
 # Put all your custom variables here
