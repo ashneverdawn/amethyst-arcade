@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ashneverdawn.github.io/amethyst-arcade/sitemap.xml
