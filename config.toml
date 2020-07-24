@@ -1,0 +1,28 @@
+# The site title and description; used in feeds by default.
+title = "Amethyst Arcade"
+description = "Open source games in Rust using Amethyst Engine."
+
+# The default language; used in feeds.
+default_language = "en"
+
+# The URL the site will be built for
+base_url = "https://ashneverdawn.github.io/amethyst-arcade/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# The site theme to use.
+theme = "zola-theme-hikari-arcade"
+
+[extra]
+# Put all your custom variables here
+author = "ashneverdawn"
+author_bio = "I'm making a new game every weekend using the Amethyst Engine. My goal is to reach 100 games! Join the challenge and submit a PR to add your Amethyst games to the list too!"
+github = "ashneverdawn/amethyst-arcade"
